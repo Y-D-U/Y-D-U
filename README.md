@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Yadu Nandan</h1>
-<h3 align="center">An UnderGraduate Student and a Programmer</h3>
+<h2 align="center">An UnderGraduate Student and a Programmer</h2>
 
 - 🌱 I’m currently learning **NodeJS, DSA, Flask**
 
