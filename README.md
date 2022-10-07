@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yadunandan944@gmail.com**
 
-- ⚡ Fun fact **I don't know what I'm doing**
+- ⚡ Fun fact **I don't know what I'm doin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
